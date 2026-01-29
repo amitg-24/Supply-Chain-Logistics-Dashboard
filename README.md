@@ -13,3 +13,6 @@ Tools Used:
 Power BI / Excel
 Data Modeling (Star Schema – Basic)
 KPI Cards, Bar Charts, Line Charts, Slicers
+
+<a href"https://github.com/amitg-24/Supply-Chain-Logistics-Dashboard/blob/main/Dashboard_Screenshot%20.png"></a>
+
