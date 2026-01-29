@@ -4,19 +4,12 @@ Developed an interactive Supply Chain & Logistics dashboard with a strong focus 
 Key Learnings & Implementation:
 
 Designed visually appealing dashboards using custom themes and color palettes
-
 Improved dashboard usability through layout alignment, spacing, and visual hierarchy
-
 Built optimized data models (fact & dimension tables) for better performance
-
 Implemented relationships, measures, and KPIs without server-based connections
-
 Analyzed logistics KPIs such as inventory levels, lead time, and order fulfillment
 
 Tools Used:
-
 Power BI / Excel
-
 Data Modeling (Star Schema – Basic)
-
 KPI Cards, Bar Charts, Line Charts, Slicers
